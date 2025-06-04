@@ -44,7 +44,7 @@ This project involves analyzing Uber trip data using SQL. The goal is to uncover
 ## 🛠️ Tools & Technologies Used
 - **SQL**: Data querying and transformation
 - **MySQL
--** Power BI (optional)**: Data visualization
+-** Power Point-Data visualization
 - **GitHub**: Version control
 
 ---
